@@ -1,1 +1,1 @@
-This is a model of an online shop that deals with laptops phones and other accessories. This site has an admin panel that keeps track of sales, customer information and updating of database among ther things
+This is a model of an online shop that deals with laptops phones and other accessories. This site has an admin panel that keeps track of sales, customer information and updating of database among other things
